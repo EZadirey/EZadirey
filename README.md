@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @EZadirey (Ekaterina Zadirey)
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning python, SQL
+- 🌱 I’m currently learning python
+- file:///C:/Users/Ekate/Downloads/python.svg
+- , SQL
 - 💞️ I’m looking to collaborate on SQL, python programming, dashbords in tableau
 - 📫 How to reach me [telegramm@EkaterinaZadirey]
 <!---
