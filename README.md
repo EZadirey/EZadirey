@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EZadirey (Ekaterina Zadirey)
+## 👋 Hi, I’m @EZadirey (Ekaterina Zadirey)
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning python
 
