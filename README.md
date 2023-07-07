@@ -1,8 +1,6 @@
+# About me:
 ## 👋 Hi, I'm Ekaterina Zadirey. You might recognize me as GitHub's EZadirey.
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| SQL       |
+
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning python
 
