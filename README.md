@@ -12,3 +12,12 @@ You can click the Preview link to take a look at your changes.
 ### :hammer_and_wrench: Languages and Tools :
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  
+## About me
+
+Hi, I'm Ekaterina Zadirey. You might recognize me as GitHub's EZadirey.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
