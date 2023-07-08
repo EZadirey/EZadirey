@@ -1,5 +1,5 @@
-# About me:
-## 👋 Hi, I'm Ekaterina Zadirey. You might recognize me as GitHub's EZadirey.
+## About me:
+### 👋 Hi, I'm Ekaterina Zadirey. You might recognize me as GitHub's EZadirey.
 
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning python
