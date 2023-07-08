@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning python
 
-- 💞️ I’m looking to collaborate on SQL, python programming, dashbords in tableau
+- 💞️ I’m looking to collaborate on SQL Postgres, Python programming, Dashbords in tableau
 - 📫 How to reach me : telegramm: @EkaterinaZadirey, email: Ekaterina.Zadirey@gmail.com
 
 <!---
