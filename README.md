@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-### : 📫 Connect with me: 
+###  📫 Connect with me: 
 <div align="left">
 <a href="https://github.com/EZadirey" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
