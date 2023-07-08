@@ -2,7 +2,7 @@
 ### 👋 Hi, I'm Ekaterina Zadirey. You might recognize me as GitHub's EZadirey.
 
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently contunue to learn Python - different libraries.
 
 - 💞️ I’m looking to collaborate on PostgreSQL, Python programming, Dashbords in tableau
 - 📫 How to reach me : telegramm: @EkaterinaZadirey, email: Ekaterina.Zadirey@gmail.com
