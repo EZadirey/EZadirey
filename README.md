@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
----------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  📫 Connect with me : 
 <div align="left">
