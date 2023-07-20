@@ -3,6 +3,7 @@
 
 - 👀 I’m interested in Data Analytics
 - 🌱 I currently contunue to learn Python - different libraries.
+## My portfolio is here: (https://github.com/EZadirey/Data-Analysis-portfolio/blob/main/README.md)
 
 - 💞️ I’m looking to collaborate on PostgreSQL, Python programming, Dashbords in tableau
 - 📫 How to reach me : telegramm: @EkaterinaZadirey, email: Ekaterina.Zadirey@gmail.com
