@@ -7,7 +7,7 @@
 -----------------------------------------------------------------
 ## My portfolio is here: [data-analysis-portfolio](https://github.com/EZadirey/Data-Analysis-portfolio/blob/main/README.md)
 
-- 💞️ I’m looking to collaborate on PostgreSQL, Python programming, Dashbords in tableau
+- 💞️ I’m looking for to collaborate on PostgreSQL, Python programming, Dashbords in tableau
 - 📫 How to reach me :
     - telegramm: @EkaterinaZadirey;
     -  email: Ekaterina.Zadirey@gmail.com
